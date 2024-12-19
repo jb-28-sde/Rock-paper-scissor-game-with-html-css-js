@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(16, 97, 97);
+
+}
+p{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+
+
+}
+button{
+    margin: 5px;
+    padding: 10px;
+    position: relative;
+    left: -276px;
+    top: 45px;
+    border-radius: 8px 0px 5px;
+    border-width: 3px;
+    box-shadow: 2px 5px 15px 2px;
+    background: linear-gradient(to left bottom,rgb(255, 101, 0),rgb(0, 128, 119));
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
